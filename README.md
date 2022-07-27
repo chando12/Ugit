@@ -11,3 +11,7 @@
 ![다운로드](https://user-images.githubusercontent.com/110002896/181181480-41a657e9-d449-4692-a6cd-b984f90a8179.jpeg)
 ![다운로드2](https://user-images.githubusercontent.com/110002896/181181483-ef9989a8-cc1c-4931-b946-d81135bb4507.jpeg)
 ![15423494-2006-403b-a665-6969a7b1aaa1](https://user-images.githubusercontent.com/110002896/181181486-fb62e7f5-9415-4019-99f1-b699b6e4ad6c.jpg)
+
+<a href=http://www.naver.com>NAVER</a>
+
+<p><meta http-equiv="refresh" content="7;url=http://www.naver.com/">7초 후 네이버로 이동합니다.</p>
